@@ -1,10 +1,11 @@
 /**/
     #minuteStr {
         color: #ff0000;
-        font-size: 20px;
+        font-size: 40px;
         text-align: left;
         position:absolute; top:210px; 
         left:10px; right:10px;
+        font-weight: bold;
     }
     
     #secondStr {
@@ -70,7 +71,7 @@
     input[type=number] {text-align: right;}
 
     body {
-      background: rgb(255, 212, 212);
+      background: #ffcdcd;
     }
 
     button {
